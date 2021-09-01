@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <PackageId>AMills9.Utilities.AppLogger</PackageId>
+    <Authors>AMills9</Authors>
+    <Company>AMills9</Company>
+    <Description>Library to log text to console</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>Logging, Logger, Log</PackageTags>
+    <RepositoryUrl>https://github.com/AMills9/AppLogger</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+F:\Programming 1\AppLogger\bin\Debug\net5.0\AppLogger.deps.json
+F:\Programming 1\AppLogger\bin\Debug\net5.0\AppLogger.dll
+F:\Programming 1\AppLogger\bin\Debug\net5.0\ref\AppLogger.dll
+F:\Programming 1\AppLogger\bin\Debug\net5.0\AppLogger.pdb
+F:\Programming 1\AppLogger\obj\Debug\net5.0\AppLogger.csproj.AssemblyReference.cache
+F:\Programming 1\AppLogger\obj\Debug\net5.0\AppLogger.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming 1\AppLogger\obj\Debug\net5.0\AppLogger.AssemblyInfoInputs.cache
+F:\Programming 1\AppLogger\obj\Debug\net5.0\AppLogger.AssemblyInfo.cs
+F:\Programming 1\AppLogger\obj\Debug\net5.0\AppLogger.csproj.CoreCompileInputs.cache
+F:\Programming 1\AppLogger\obj\Debug\net5.0\AppLogger.dll
+F:\Programming 1\AppLogger\obj\Debug\net5.0\ref\AppLogger.dll
+F:\Programming 1\AppLogger\obj\Debug\net5.0\AppLogger.pdb
