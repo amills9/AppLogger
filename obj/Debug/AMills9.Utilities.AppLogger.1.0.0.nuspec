@@ -3,7 +3,7 @@
   <metadata>
     <id>AMills9.Utilities.AppLogger</id>
     <version>1.0.0</version>
-    <authors>AMills9</authors>
+    <authors>Andrew Mills</authors>
     <license type="expression">MIT</license>
     <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
     <description>Library to log text to console</description>
